@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice Empresarial</string>
+    <string name="origin">Origen</string>
+    <string name="destination">Destino</string>
+    <string name="calculate">Calcular distancia</string>
+    <string name="msg_insert_origin">Inserte el origen</string>
+    <string name="msg_insert_destination">Inserte el destino</string>
+</resources>
